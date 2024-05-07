@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-devadiga&label=Profile%20views&color=0e75b6&style=flat" alt="akash-devadiga" /> </p>
 
-- 🔭 I’m currently working on **DBMS Project on Shopping Cart**
+- 🔭 I’m currently working on **DBMS Project on Online Shopping Cart**
 
 - 📫 How to reach me **akashdevadiga635@gmail.com**
 
